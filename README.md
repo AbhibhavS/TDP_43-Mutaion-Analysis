@@ -13,7 +13,7 @@ The Pipeline
 
 (II) The empirical analysis is carried out
 
-(III) The machine learning mmodels were then implemented on the filtered inverse dataset to etract features
+(III) The machine learning models were then implemented on the filtered inverse dataset to etract features
 
 (IV) The importance profile is generated
 
